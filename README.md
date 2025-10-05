@@ -1,4 +1,4 @@
-# MPK Calculator
+# MPK Cal
 
 🎉 **My First Python Project!** 🎉
 
