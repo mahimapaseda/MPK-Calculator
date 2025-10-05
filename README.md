@@ -52,8 +52,6 @@ This is my first Python project, created to learn GUI development, mathematical 
 
 ## Screenshots
 
-![MPK Calculator Banner](assets/mpk-banner.gif)
-
 ### Scientific Calculator
 ![Scientific Calculator](assets/sciencetific.png)
 
